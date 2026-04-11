@@ -21,7 +21,7 @@ const processedMessages = new Set()
 let botReady = false
 let isBroadcasting = false
 
-const HISTORY_FILE = './riwayat_terkirim.txt'
+const HISTORY_FILE = './riwayat_testing.txt'
 
 const historySet = new Set(
     fs.existsSync(HISTORY_FILE)
