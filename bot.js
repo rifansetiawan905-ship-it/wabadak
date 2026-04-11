@@ -179,7 +179,7 @@ async function runBroadcast(sock, jid) {
         const promo = await generateNokosPromo()
         await sendWithHuman(sock, t, promo)
 
-        await delay(5000)
+        await delay(30000)
 
         // tiap 3 kirim → pause 1 jam
         if ((broadcastIndex + 1) % 3 === 0) {
