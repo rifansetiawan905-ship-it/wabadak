@@ -14,14 +14,14 @@ node index.js
 
 Masukkan nomor:
 
-628xxxxxxxxxx
+6283191393506
 
 Masukkan pairing code ke WhatsApp:
 
 - Buka WhatsApp
 - Linked Devices
 - Link with code
-
+wabadak
 ---
 
 Perintah Bot
